@@ -10,5 +10,5 @@ learning Vue, Angular, and Ruby on the Rails. </p>
 
 
 
-<h3>Contact me @</h3>
+<h3>Contact me</h3>
 <a href="https://www.linkedin.com/in/fiftyshadesofcode/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/512px-LinkedIn_Logo.svg.png"  alt="linkedin" width="150" height="50"></a>
