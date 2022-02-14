@@ -4,7 +4,7 @@
 <h4>Fullstack Developer</h4>
 <p>🔭 I'm currently working on mastering Node.js in order to create increasingly effective solutions for better and better APIs. </p>
 <p>🌱 I'm currently learning multiple different python & javascript libraries and looking forward to moving on to 
-learning Vue, Angular, and Ruby on the Rails. </p>
+learning Python, Vue, Angular, and Ruby on the Rails. </p>
 <p>👯 I'm open to collaborations. </p>
 
 
